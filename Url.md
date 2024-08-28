@@ -1,2 +1,1 @@
-Visit Social Counter website
-Website Url: (https://socialcounter.netlify.app/)
+Visit Social Counter Website: (https://socialcounter.netlify.app/)
